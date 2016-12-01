@@ -1,0 +1,17 @@
+body {
+  background-image: url(http://previews.123rf.com/images/alexm/alexm1009/alexm100900003/7822082-Movie-Background-Stock-Vector-film.jpg);
+}
+input{
+  font-style: italic;
+  text-align: center;
+}
+h2 {
+  color: yellow;
+  font-style: oblique;
+  font-family: cursive;
+
+}
+button {
+  color: blue;
+
+}
